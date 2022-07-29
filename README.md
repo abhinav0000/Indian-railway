@@ -23,4 +23,4 @@ c)Open index.htm in your browser.
 5)Finally run index.htm and enjoy!
 
 Feel free to ask queries if facing any issues in installation.
-<td><a href=\"http://localhost/project/edit_user.php?id=".$cdrow[0]."\"><button>Edit</button></a></td><td><a href=\"http://localhost/project/delete_user.php?id=".$cdrow[0]."\"><button>Delete</button></a></td></tr>
+
